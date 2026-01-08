@@ -1,9 +1,9 @@
-from app.voice.speaker import speak
+import wikipedia
 
-# app/skills/knowledge.py
-
-def get_knowledge(command: str) -> str:
-    """
-    Placeholder for knowledge-based queries.
-    """
-    return f"You asked: {command}. This knowledge feature will be expanded soon."
+def get_knowledge(query):
+    try:
+        topic = query.replace("who is", "").replace("what is", "").strip()
+        summary = wikipedia.summary(topic, sentences=2)
+        return summary
+    except:
+        return "Sorry, I could not find information on that topic."

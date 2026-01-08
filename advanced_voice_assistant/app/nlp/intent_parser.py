@@ -1,22 +1,28 @@
-import re
+from app.core.context import get_context
 
-def parse_intent(text):
-    text = text.lower()
+def parse_intent(command: str):
+    command = command.lower().strip()
 
-    if re.search(r'\b(exit|quit|bye|stop)\b', text):
+    if any(w in command for w in ["exit", "quit", "bye"]):
         return "exit"
 
-    if re.search(r'\b(weather|temperature|forecast)\b', text):
+    if any(w in command for w in ["weather", "temperature", "forecast"]):
         return "weather"
 
-    if re.search(r'\b(remind|remember|alert)\b', text):
-        return "reminder"
+    # 🔥 FOLLOW-UP HANDLING
+    if any(w in command for w in ["tomorrow", "today"]):
+        last_intent = get_context("last_intent")
+        if last_intent:
+            return last_intent
 
-    if re.search(r'\b(email|mail|send email)\b', text):
+    if any(w in command for w in ["who is", "what is", "tell me about"]):
+        return "knowledge"
+
+    if "email" in command:
         return "email"
 
-    return "knowledge"
+    if any(word in command for word in ["remind", "reminder"]):
+        return "reminder"
 
 
-
-
+    return "unknown"
