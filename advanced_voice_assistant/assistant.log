@@ -139,3 +139,221 @@
 2026-01-08 23:01:18,674 - INFO - Command: send email to | Intent: email
 2026-01-08 23:01:26,940 - INFO - Command: send email to archita say | Intent: email
 2026-01-08 23:01:41,716 - INFO - Command: exit | Intent: exit
+2026-01-09 21:50:38,097 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 21:50:38,098 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:17:23,089 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 22:17:23,090 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:20:21,312 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 22:20:21,314 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:32:48,941 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 22:32:48,942 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:33:36,467 - INFO - Command: what is weather today at cuttack | Intent: weather
+2026-01-09 22:34:00,824 - INFO - Command: send an email | Intent: email
+2026-01-09 22:34:30,700 - INFO - Command: say hi to archita through email | Intent: email
+2026-01-09 22:35:19,815 - INFO - Command: apple company | Intent: unknown
+2026-01-09 22:35:30,145 - INFO - Command: what do you know about apple company | Intent: unknown
+2026-01-09 22:35:39,168 - INFO - Command: what is an apple | Intent: knowledge
+2026-01-09 22:36:26,912 - INFO - Command: exit | Intent: exit
+2026-01-09 22:45:58,078 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 22:45:58,079 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:46:09,567 - INFO - Command: what is weather at cuttack today | Intent: weather
+2026-01-09 22:46:23,157 - INFO - Command: exit | Intent: exit
+2026-01-09 22:46:28,967 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 22:46:28,967 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:46:39,286 - INFO - Command: what is weather at cuttack today | Intent: weather
+2026-01-09 22:46:49,149 - INFO - Command: exit | Intent: exit
+2026-01-09 22:46:54,246 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 22:46:54,247 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:47:04,283 - INFO - Command: what is weather at cuttack today | Intent: weather
+2026-01-09 22:49:47,075 - INFO - Command: exit | Intent: exit
+2026-01-09 22:53:13,557 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 22:53:13,558 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 22:53:24,754 - INFO - Command: what is the weather at delhi | Intent: weather
+2026-01-09 22:53:38,597 - INFO - Command: exit | Intent: exit
+2026-01-09 23:17:00,536 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-09 23:17:00,538 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-09 23:17:19,580 - INFO - Command: what is the weather | Intent: weather
+2026-01-09 23:17:31,518 - INFO - Command: what is the weather at delhi | Intent: weather
+2026-01-09 23:17:41,109 - INFO - Command: exit | Intent: exit
+2026-01-10 00:27:10,730 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 00:27:10,731 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 00:27:28,061 - INFO - Command: what is the weather at delhi | Intent: weather
+2026-01-10 00:27:46,552 - INFO - Command: what is the weather at my city | Intent: weather
+2026-01-10 00:28:07,741 - INFO - Command: what is the weather at bangalore | Intent: weather
+2026-01-10 00:28:26,550 - INFO - Command: exit | Intent: exit
+2026-01-10 14:34:50,549 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 14:34:50,550 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 14:35:03,408 - INFO - Command: what's the weather at delhi | Intent: weather
+2026-01-10 14:35:21,540 - INFO - Command: what about mumbai | Intent: unknown
+2026-01-10 14:35:35,719 - INFO - Command: what is the weather at delhi tomorrow | Intent: weather
+2026-01-10 14:35:50,917 - INFO - Command: what is the weather at cuttack | Intent: weather
+2026-01-10 14:36:28,560 - INFO - Command: exit | Intent: exit
+2026-01-10 14:51:02,715 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 14:51:02,716 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 14:51:15,422 - INFO - Command: who is elon musk | Intent: knowledge
+2026-01-10 14:51:35,928 - INFO - Command: who is | Intent: knowledge
+2026-01-10 14:51:53,411 - INFO - Command: what is the weather | Intent: weather
+2026-01-10 14:52:16,266 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 14:52:16,267 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 14:52:26,794 - INFO - Command: send an email to archita say | Intent: email
+2026-01-10 14:52:44,549 - INFO - Command: remind me to | Intent: reminder
+2026-01-10 14:52:59,385 - INFO - Command: who is amitabh | Intent: knowledge
+2026-01-10 14:53:26,494 - INFO - Command: who is ellen | Intent: knowledge
+2026-01-10 14:53:54,446 - INFO - Command: what is an apple | Intent: knowledge
+2026-01-10 14:54:06,710 - INFO - Command: who is elon musk | Intent: knowledge
+2026-01-10 14:54:19,585 - INFO - Command: who is donald trump | Intent: knowledge
+2026-01-10 14:54:53,095 - INFO - Command: who is narendra modi | Intent: knowledge
+2026-01-10 14:55:56,099 - INFO - Command: set reminder for 2:56 p.m. to drink water | Intent: reminder
+2026-01-10 14:57:11,204 - INFO - Command: exit | Intent: exit
+2026-01-10 19:40:02,979 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 19:40:02,980 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 19:40:18,381 - INFO - Command: remind me to drink water at 741 p.m. | Intent: reminder
+2026-01-10 20:01:46,572 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 20:01:46,573 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 20:02:05,332 - INFO - Command: remind me to drink water at 8:03 p.m. | Intent: reminder
+2026-01-10 20:02:18,730 - INFO - Command: what is today's weather | Intent: weather
+2026-01-10 20:36:08,641 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 20:36:08,642 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 20:36:19,280 - INFO - Command: what is the weather today | Intent: weather
+2026-01-10 20:36:37,702 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 20:36:37,702 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 20:36:50,926 - INFO - Command: what is the weather today | Intent: weather
+2026-01-10 21:20:19,089 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 21:20:19,090 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 21:20:40,810 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 21:20:40,811 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 23:12:33,811 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 23:12:33,812 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-10 23:17:39,713 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-10 23:17:39,714 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-11 14:30:22,787 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-11 14:30:22,788 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-11 14:30:41,786 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=elon&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-11 14:30:43,026 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Elon&explaintext=1&exsectionformat=wiki
+2026-01-11 14:31:37,290 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=elon&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-11 14:31:37,698 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Elon&explaintext=1&exsectionformat=wiki
+2026-01-11 14:33:48,672 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=elon&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-11 14:33:50,512 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Elon&explaintext=1&exsectionformat=wiki
+2026-01-11 14:34:05,794 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=elon musk&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-11 14:34:06,387 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Elon Musk&explaintext=1&exsectionformat=wiki
+2026-01-12 13:49:45,697 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 13:49:45,698 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 22:06:31,667 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 22:06:32,529 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 22:06:32,530 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 22:11:06,862 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 22:11:07,609 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 22:11:07,609 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 22:13:13,316 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 22:13:14,086 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 22:13:14,087 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 22:24:01,108 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 22:24:02,042 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 22:24:02,043 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 22:36:11,725 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 22:36:12,484 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 22:36:12,484 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 22:46:03,848 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 22:46:04,601 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 22:46:04,602 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 22:52:09,593 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 22:52:10,427 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 22:52:10,428 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 23:30:29,810 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 23:30:30,555 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 23:30:30,556 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 23:32:03,827 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 23:32:04,573 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 23:32:04,573 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 23:33:36,731 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-12 23:33:37,479 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-12 23:33:37,479 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-12 23:34:53,434 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=narendra modi&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-12 23:34:54,505 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Narendra Modi&explaintext=1&exsectionformat=wiki
+2026-01-13 00:04:33,034 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 00:04:33,771 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 00:04:33,771 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 00:21:34,674 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 00:21:35,415 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 00:21:35,416 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 00:21:56,949 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 00:21:57,723 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 00:21:57,724 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 00:22:30,128 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 00:22:30,897 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 00:22:30,897 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 12:51:32,676 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 12:51:33,559 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 12:51:33,559 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 18:24:09,630 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 18:24:10,397 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 18:24:10,397 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 22:26:23,789 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 22:26:24,721 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 22:26:24,722 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 22:37:14,601 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 22:37:15,373 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 22:37:15,374 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 22:39:07,929 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=elon&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-13 22:39:09,820 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Elon&explaintext=1&exsectionformat=wiki
+2026-01-13 23:23:41,700 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 23:23:42,458 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 23:23:42,458 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 23:27:08,316 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 23:27:09,078 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 23:27:09,079 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 23:41:05,091 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 23:41:05,914 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 23:41:05,914 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 23:42:48,911 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 23:42:49,694 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 23:42:49,695 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 23:43:29,830 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-13 23:43:30,597 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 23:43:30,597 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 08:22:43,687 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 08:22:44,413 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 08:22:44,413 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 08:23:55,715 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=narendra modi&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-14 08:23:56,866 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Narendra Modi&explaintext=1&exsectionformat=wiki
+2026-01-14 08:39:59,518 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 08:40:00,442 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 08:40:00,443 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 08:41:27,904 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=info&titles=narendra modi&inprop=protection|talkid|watched|watchers|visitingwatchers|notificationtimestamp|subjectid|url|readable|preload|displaytitle|varianttitles
+2026-01-14 08:41:29,273 - INFO - Request URL: https://en.wikipedia.org/w/api.php?format=json&redirects=1&action=query&prop=extracts&titles=Narendra Modi&explaintext=1&exsectionformat=wiki
+2026-01-14 09:07:20,127 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 09:07:20,978 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 09:07:20,978 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 12:45:32,112 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 12:45:32,962 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 12:45:32,962 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 14:34:13,424 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 14:34:14,284 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 14:34:14,284 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 20:19:33,189 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 20:19:34,001 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 20:19:34,002 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 20:24:41,832 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 20:24:42,596 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 20:24:42,596 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 20:42:23,035 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 20:42:23,827 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 20:42:23,828 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 20:54:02,356 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 20:54:03,207 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 20:54:03,208 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 21:10:36,973 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 21:10:37,748 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 21:10:37,749 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 22:03:47,512 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 22:03:48,310 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 22:03:48,310 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 22:29:29,930 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 22:29:30,780 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 22:29:30,780 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 22:32:20,761 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 22:32:21,495 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 22:32:21,495 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'
+2026-01-14 22:42:13,487 - INFO - Wikipedia: language=en, user_agent: AdvancedVoiceAssistant/1.0 (OIBSIP Internship Project) (Wikipedia-API/0.8.1; https://github.com/martin-majlis/Wikipedia-API/), extract_format=1
+2026-01-14 22:42:14,318 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Archita\\Desktop\\OIBSIP\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 22:42:14,318 - INFO - Using writeable comtypes cache directory: 'C:\Users\Archita\Desktop\OIBSIP\.venv\Lib\site-packages\comtypes\gen'

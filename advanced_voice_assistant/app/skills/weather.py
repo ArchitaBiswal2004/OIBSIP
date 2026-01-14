@@ -1,60 +1,101 @@
 import os
+import re
 import requests
 from dotenv import load_dotenv
 from app.core.context import update_context, get_context
-import re
+
 load_dotenv()
 
+# ==============================
+# CONFIG
+# ==============================
 API_KEY = os.getenv("OPENWEATHER_API_KEY")
 
+TIME_WORDS = ["today", "tomorrow", "now", "tonight", "next week"]
+FILLER_PHRASES = [
+    "what is", "what's", "tell me", "the weather",
+    "weather", "temperature"
+]
+
+
+# ==============================
+# UTILS
+# ==============================
+def normalize_command(command: str) -> str:
+    command = command.lower().strip()
+
+    for word in TIME_WORDS:
+        command = command.replace(word, "")
+
+    for phrase in FILLER_PHRASES:
+        command = command.replace(phrase, "")
+
+    return " ".join(command.split())
+
+
+def get_current_city():
+    """
+    Detect user's city using IP location
+    """
+    try:
+        res = requests.get("https://ipinfo.io/json", timeout=5)
+        data = res.json()
+        return data.get("city")
+    except:
+        return None
 
 
 def extract_city(command: str):
-    command = command.lower()
+    """
+    Extract city name from user command
+    """
+    command = normalize_command(command)
 
-    # Remove time-related noise
-    noise_words = ["today", "tomorrow", "now", "please"]
-    for word in noise_words:
-        command = command.replace(word, "")
+    # Handle "my city"
+    if "my city" in command or "my location" in command:
+        return "CURRENT_LOCATION"
 
-    patterns = [
-        r"weather (in|at) ([a-z\s]+)",
-        r"(in|at) ([a-z\s]+)",
-        r"([a-z\s]+) weather"
-    ]
+    # Priority 1: at/in <city>
+    match = re.search(r"(?:at|in)\s+([a-zA-Z\s]{2,})$", command)
+    if match:
+        return match.group(1).strip()
 
-    for pattern in patterns:
-        match = re.search(pattern, command)
-        if match:
-            city = match.group(match.lastindex).strip()
-
-            # Basic validation
-            if 3 <= len(city) <= 25:
-                return city
+    # Priority 2: <city> weather
+    match = re.search(r"([a-zA-Z\s]{2,})$", command)
+    if match:
+        city = match.group(1).strip()
+        if city not in ["at", "in"]:
+            return city
 
     return None
 
 
-
+# ==============================
+# MAIN WEATHER FUNCTION
+# ==============================
 def get_weather(command: str):
     if not API_KEY:
         return "Weather service is not configured."
-    
+
+    # Tomorrow not implemented yet
     if "tomorrow" in command.lower():
-        return "Tomorrow's forecast is coming soon. I can tell you today's weather for now."
+        return "I can provide today's weather for now. Forecast support is coming soon."
 
-
-    # Try extracting city from command
     city = extract_city(command)
 
-    # If city not spoken, use context
+    # 🌍 Current location handling
+    if city == "CURRENT_LOCATION":
+        city = get_current_city()
+        if not city:
+            return "I couldn't determine your current city."
+
+    # 🧠 Context fallback
     if not city:
         city = get_context("last_city")
-
         if not city:
             return "Please tell me the city name."
 
-    # Store city in context
+    # Save city in memory
     update_context("last_city", city)
 
     url = (
@@ -66,14 +107,20 @@ def get_weather(command: str):
         res = requests.get(url, timeout=5)
 
         if res.status_code != 200:
-            return f"I couldn't fetch the weather for {city}."
+            return f"I couldn't fetch the weather for {city.title()}."
 
         data = res.json()
 
         temp = data["main"]["temp"]
+        feels_like = data["main"]["feels_like"]
+        humidity = data["main"]["humidity"]
         desc = data["weather"][0]["description"]
 
-        return f"The weather in {city.title()} today is {temp} degrees Celsius with {desc}."
+        return (
+            f"The weather in {city.title()} today is {temp}°C "
+            f"(feels like {feels_like}°C) with {desc}. "
+            f"Humidity is {humidity}%."
+        )
 
     except requests.exceptions.RequestException:
         return "Weather service is currently unavailable."
